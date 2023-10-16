@@ -1,0 +1,824 @@
+[
+  {
+    "context": "B Group will decrease the number of paperprints in its operations by 50% compared to 2019.- introduction of digital signatures and digital to",
+    "qas": [
+      {
+        "id": 6,
+        "question": "By 2025, NLB Group will decrease the number of paper prints in its operations by what percentage compared to 2019?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "50%",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "y 2025, the shareof active digitalretail users in NLBGroup will be 55%.",
+    "qas": [
+      {
+        "id": 10,
+        "question": "By 2025, what will be the share of active digital retail users in NLB Group?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "55%.",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "YesIn progressNoYesIn progressNoYesIn progressNo2. By 2030, 75% of all electric energy used in NLB Group willcome from zero-carbon s",
+    "qas": [
+      {
+        "id": 12,
+        "question": "By 2030, what percentage of all electric energy used in NLB Group will come from zero-carbon sources?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "75%",
+            "answer_start": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "By end of 2022 we formed the emission calculation for the Slovenian market, whereas ",
+    "qas": [
+      {
+        "id": 15,
+        "question": "By what year did NLB Group form the emission calculation for the Slovenian market?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "2022",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "By end of 2022 we formed the emission calculationfor the Slovenian market, whereas ",
+    "qas": [
+      {
+        "id": 16,
+        "question": "By what year did we form the emission calculation for the Slovenian market?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "2022",
+            "answer_start": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Target achivements in 2022\nBy the year 2022 the NLG Group decreased the number of\npaper prints by 43% compared to 2019",
+    "qas": [
+      {
+        "id": 19,
+        "question": "Compared to 2019, how much did the NLB Group decrease the number of paper prints by the year 2022?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "By the year 2022 the NLG Group decreased the number of\npaper prints by 43% compared to 2019",
+            "answer_start": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "r satisfaction andreliability. Members of the NLB Group manage risks in accordance with theinstructions and comply with the requirements of NLB d.d. ",
+    "qas": [
+      {
+        "id": 28,
+        "question": "How do members of the NLB Group manage risks?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "in accordance with theinstructions",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "rswho have appropriate internal tax controls in place. In 2020, only 11 bigtaxpayers had such a status in Slovenia.",
+    "qas": [
+      {
+        "id": 46,
+        "question": "How many big taxpayers had mutual trust status in Slovenia in 2020?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "11",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "eed levelsfor all 22 impact areas defined by the UNEP FI tool in all sixcountries of the NLBGroup operations based on the data collected on ",
+    "qas": [
+      {
+        "id": 59,
+        "question": "How many countries does the NLB Group operate in?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "six",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Management Board Membersare supported by directors at B-1 level in3 decision-making bodiesOversees the integration of thesustainability",
+    "qas": [
+      {
+        "id": 63,
+        "question": "How many decision-making bodies are there?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "3",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "NLB Group In total, 382 employeesdeparted from NLB Group in 2020.In total, 162 employees de",
+    "qas": [
+      {
+        "id": 70,
+        "question": "How many employees departed from NLB Group in 2020?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "382",
+            "answer_start": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "s year, the number of employeesincreased by 43 in 2022 to a total of 8,228 employees. InMarch 2022, NLB acquired Slovenian Sberbank subsequent",
+    "qas": [
+      {
+        "id": 74,
+        "question": "How many employees did NLB increase in 2022?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "8,228",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "by 10 pointsvs. year 2021, and by 44 points vs. baseline year 2019 82,280 employees took part in 1,690 trainingprogrammes. ",
+    "qas": [
+      {
+        "id": 82,
+        "question": "How many employees took part in training programmes?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "82,280",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " we actively encouraged working from home.Thus, in 2022, on average, 36% of employees in NLB Groupworked from home every day. And this trend ",
+    "qas": [
+      {
+        "id": 86,
+        "question": "How many employees worked from home in 2022?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "36%",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "p carried out impactanalysis and materiality analysis and identified 13 impactareas Employment, Inclusive  healthy economies, Resour",
+    "qas": [
+      {
+        "id": 96,
+        "question": "How many impact areas were identified?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "13",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "aim of developing the organisationalculture and leaders, we included 136 individuals in thehighest management positions in the entire NLB Gro",
+    "qas": [
+      {
+        "id": 98,
+        "question": "How many individuals were included with the company by 2022 to develop the organisational culture and leaders?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "136",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "sis and country needs. Based on these analysis, NLBGroup prioritized 3 key impact areas and announced 4 keytargets.Principle 1 alignment",
+    "qas": [
+      {
+        "id": 99,
+        "question": "How many key impact areas did NLB Group prioritize?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "3",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "cial impacts.According to ESMS, ESG risk management is considered onthree levels having a low impact on the environment and having thepoten",
+    "qas": [
+      {
+        "id": 106,
+        "question": "How many levels is ESG risk management considered?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "three",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Sustainable Development unit as well.Sustainability control through threelines of defenceThe internal control system in NLB Group is implemen",
+    "qas": [
+      {
+        "id": 108,
+        "question": "How many lines of defence does the internal control system have?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "three",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Through stakeholder mappingwe recognised six mainstakeholder groups employees,private and business clients,sup",
+    "qas": [
+      {
+        "id": 111,
+        "question": "How many main stakeholder groups did the NLB Group identify through stakeholder mapping?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "six",
+            "answer_start": 41
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " in the same geographical andcultural area. Based on this, we listed17 material issues for NLB Groupsresponsible operation and sustainable",
+    "qas": [
+      {
+        "id": 113,
+        "question": "How many material issues were listed for NLB Groups responsible operation and sustainable development?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "17",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "the reporting period, by agegroup, gender and region.NLB In total, 94 new employees in 2020.NLB Group In total, 307 new employeesin 2020",
+    "qas": [
+      {
+        "id": 124,
+        "question": "How many new employees did NLB have in 2020?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "94",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "ployed69% of women and 31% of men.307 new employeesNLB Group hired 307 new employees,of which 39.7% were younger than 30years, 57% were be",
+    "qas": [
+      {
+        "id": 126,
+        "question": "How many new employees were hired at NLB?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "307",
+            "answer_start": 34
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "tructure of employee turnover in NLB Groupby gender and ageIn 2022, 1196 employees left the NLB Group at its significantlocations of employme",
+    "qas": [
+      {
+        "id": 137,
+        "question": "How many people left the NLB Group at its significant locations of employment?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "1196",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "ksSupervisory Board consists of a total of twelve members, ofwhich eight represent the interests of shareholders and fourthe interests of emp",
+    "qas": [
+      {
+        "id": 144,
+        "question": "How many shareholders did the Supervisory Board address in 2022?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "eight",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "ng term.1. NLB sustainability roadmap encompasses decisive approach, 3 strategic pillarsSustainable Operations, Sustainable Finance, Contr",
+    "qas": [
+      {
+        "id": 151,
+        "question": "How many strategic pillars are there?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "3",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "heir money with using digitalchannels.For this reason, we organised 10 practical workshopsspecifically tailored to the needs of older peopl",
+    "qas": [
+      {
+        "id": 170,
+        "question": "How many workshops were organized specifically for older peoples needs?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "10",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " age in 2022Compared to 2021, the turnover rate in 2022 increased by 6%,mostly due to the higher number of retirements and earlyretirements,",
+    "qas": [
+      {
+        "id": 178,
+        "question": "How much did the rate of employee turnover in NLB Group increase in 2022?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "6%,",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "50% reduction of paper print by 202575% of all electric energy from zer",
+    "qas": [
+      {
+        "id": 188,
+        "question": "How much of a reduction in paper print will be achieved by 2025?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "50%",
+            "answer_start": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "financedemissions of NLB Group accounted for 19,906 t CO2, which is 46% reduction comparedto 2021. . To calculate emissions the guidelines o",
+    "qas": [
+      {
+        "id": 198,
+        "question": "How much reduction in CO2 did NLB Group account for in 2022 compared to 2021?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "46%",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "rtunities. In 2020 the proportionof staff with disabilities stood at 2%.6,800 training programsBy the end of the year 4,769 employeespartic",
+    "qas": [
+      {
+        "id": 205,
+        "question": "In 2020, what was the proportion of staff with disabilities?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "2%.",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " Srpska.vii Market share in the Federation of BiH.viii In April 2022 NLB Banka, Beograd merged with Komercijalna Banka, Beograd.CEO State",
+    "qas": [
+      {
+        "id": 216,
+        "question": "In what year did NLB Banka, Beograd merge with Komercijalna Banka?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "2022",
+            "answer_start": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "NLB obtained in 2022 for the firsttime an ESG Risk Rating. Assigned rating reflects a low",
+    "qas": [
+      {
+        "id": 225,
+        "question": "In what year did NLB receive an ESG Risk Rating?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "2022",
+            "answer_start": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "ed in our operations.NLB Sustainability governance as established in 2020Compliance and integrity are integrated in our business,governance,",
+    "qas": [
+      {
+        "id": 237,
+        "question": "In what year was NLB Sustainability governance established?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "2020",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "y 2025, the share of active digital retail users in NLB Groupwill be 55%- promoting the use of digital channels to various targetgroups via ",
+    "qas": [
+      {
+        "id": 261,
+        "question": "The share of active digital retail by 2025 will be what?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "55%",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "followsinternational standardsin the fight against corruption.The Enterprise Compliance and Integrity Risk AssessmentECRA is performed at the Group level and is intended for thereview ",
+    "qas": [
+      {
+        "id": 308,
+        "question": "What does ECRA stand for?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "Enterprise Compliance and Integrity Risk Assessment",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "sultsare expected by the end of 2023.NLB Group also established the Environmental andSocial Management System ESMS, which is part of acomprehensive management system within NLB",
+    "qas": [
+      {
+        "id": 312,
+        "question": "What does ESMS stand for?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "Environmental andSocial Management System",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "The Enterprise Compliance and Integrity Risk Assessment (ECRA) is performed at the Group level a",
+    "qas": [
+      {
+        "id": 337,
+        "question": "What does the acronym ECRA stands for?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "Enterprise Compliance and Integrity Risk Assessment (ECRA)",
+            "answer_start": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "due diligence processes. The compliance functions have carried out awareness-raising activities in connection with this area and havestrengthened the approach to ma",
+    "qas": [
+      {
+        "id": 351,
+        "question": "What have the compliance functions carried out in connection with this area?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "awareness-raising activities",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "n sustainability related topicsin the Sustainability Report, page 35CEO StatementKey Highlights 2022About This ReportNLB Group at aGlanceSustainab",
+    "qas": [
+      {
+        "id": 355,
+        "question": "What is a key highlight of the 2022 report?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "CEO Statement",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "ion in 2020.Non-discriminationWe have a policy of zero toleranceto any form of discrimination andviolence. In reporting period, we had1 incident of discrimination, which was",
+    "qas": [
+      {
+        "id": 380,
+        "question": "What is our policy of zero tolerance to?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "any form of discrimination andviolence",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "ructure in NLB Group by genderAt the end of 2020, NLB Group employed 69% women and 31% men. Notethat Komercijalna Banka, Beograd and its subsidiaries are not ",
+    "qas": [
+      {
+        "id": 409,
+        "question": "What is the gender of the NLB group members?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "69% women and 31% men",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "der than 50 years.Altogether, 42% of the newly employedwere men and 58% women. ",
+    "qas": [
+      {
+        "id": 454,
+        "question": "What percent of the new employed were women?",
+        "is_impossible": true,
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "n overview of key CSR activities with the greatestimpact group-wide.40% of all CSR activitieswere aligned with at leastone of the UN SDG go",
+    "qas": [
+      {
+        "id": 457,
+        "question": "What percentage of all CSR activities were aligned with UN SDGs?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "40%",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " is controlledby the organisation, who arecovered by such a system100% of all employeesb. the number and percentage of allemployees and ",
+    "qas": [
+      {
+        "id": 459,
+        "question": "What percentage of all employees are covered by a system that has been internally audited?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "1",
+            "answer_start": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "eded for business growth. As the bank ofprimary choice for more than 32% of registered businessesmanaged by women in Montenegro, NLB reciproc",
+    "qas": [
+      {
+        "id": 462,
+        "question": "What percentage of businesses managed by women in Montenegro were managed by NLB?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "32%",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "B Groupwill be 55%.NLB Group has committed to digital penetration of55% on the group level by 2025. At the end of 2022, NLBGroup reached 40.",
+    "qas": [
+      {
+        "id": 466,
+        "question": "What percentage of digital penetration on the group level by 2025 will be achieved?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "55%",
+            "answer_start": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "cope 2, limited Scope 3  without Category 15financed emissions. 100% of all electricity from zero carbon energy sourcein NLB and NLB Kom",
+    "qas": [
+      {
+        "id": 469,
+        "question": "What percentage of electricity was obtained from zero carbon energy source?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "100%",
+            "answer_start": 64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "97% of newhires were hired from local community.Up to 35% lower paper u",
+    "qas": [
+      {
+        "id": 478,
+        "question": "What percentage of new hires were hired from local community?",
+        "is_impossible": true,
+        "answers": []
+      }
+    ]
+  },
+  {
+    "context": "rnover of employees voluntary and involuntaryin NLB Group stood at 6.7%, among men it was 7.6%, and amongwomen it was 6.3%.Figure 10 Graph",
+    "qas": [
+      {
+        "id": 522,
+        "question": "What was the total turnover of employees in NLB Group in 2020?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "6.7%,",
+            "answer_start": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "ageIn 2022, the overall turnover of employees in NLB Group stood at 14.5%. The graph shows furtherdistribution of this share by gender and age.",
+    "qas": [
+      {
+        "id": 523,
+        "question": "What was the turnover of employee s in NLB Group in 2022?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "14.5%.",
+            "answer_start": 68
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": " Komercijalna Banka a.d. Beogradand its subsidiaries was finished on 30.12.2020,and is thus not included in the report not todistort the data prese",
+    "qas": [
+      {
+        "id": 553,
+        "question": "When was the acquisition of Komercijalna Banka a.d. Beograd completed?",
+        "is_impossible": false,
+        "answers": [
+          {
+            "text": "30.12.2020",
+            "answer_start": 69
+          }
+        ]
+      }
+    ]
+  }
+]
